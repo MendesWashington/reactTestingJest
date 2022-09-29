@@ -1,1 +1,1 @@
-﻿# New project used jest, babel and testing-library
+﻿# New project using jest, babel and testing-library
