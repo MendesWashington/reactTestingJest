@@ -1,5 +1,7 @@
+import { WidgetForm } from "./components/WidgetForm";
+
 function App() {
-  return <h1>Hello Word!</h1>;
+  return <WidgetForm></WidgetForm>;
 }
 
 export default App;
